@@ -75,9 +75,9 @@ The table below details prominent commercial SaaS platforms, ranked by **company
 ## 💻 Open-Source GitHub Projects
 
 > 🌟 **Self-Hostable & Extensible Foundations:**  
-> The following repositories represent the most active and capable open-source and open-core solutions for managing product catalogs, digital assets, and digital commerce pipelines. Projects are sorted by **GitHub Stars (descending)**.
+> The following repositories represent the most active and capable open-source and open-core solutions for managing product catalogs, digital assets, and digital commerce pipelines. Projects are sorted by **GitHub_Stars (descending)**.
 
-| Project & Repository 📦 | GitHub Stars ⭐ | Primary Tech Stack 🛠️ | License ⚖️ | Core Capabilities & Architecture 💡 |
+| Project & Repository 📦 | GitHub_Stars ⭐ | Primary Tech Stack 🛠️ | License ⚖️ | Core Capabilities & Architecture 💡 |
 | :--- | :---: | :--- | :--- | :--- |
 | **[Medusa](https://github.com/medusajs/medusa)** | [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | Node.js, TypeScript | MIT | Composable, modular headless commerce engine with sophisticated multi-variant product catalog, attribute modeling, and inventory modules. |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Python, Frappe Framework, JS | GPL-3.0 | Complete ERP suite containing advanced Item/PIM master data management, product variant matrices, multi-currency price lists, and barcode tracking. |
